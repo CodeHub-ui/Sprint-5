@@ -4,7 +4,7 @@ A drag-and-drop Kanban task board built for IT helpdesk and sysadmin teams to tr
 
 
 ---
-
+        
 ## Features
 
 - **Drag & drop** tasks between columns using the native HTML5 Drag and Drop API, with a live drop indicator and instant UI + localStorage updates
