@@ -1,0 +1,21 @@
+{
+  "name": "prodesk-kanban",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ProDesk IT Kanban Task Board — a drag-and-drop task board built with React 19, useReducer and the Context API.",
+  "author": "Harshit Gupta",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.5"
+  }
+}
