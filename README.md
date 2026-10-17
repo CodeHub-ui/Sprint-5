@@ -1,6 +1,8 @@
 # ProDesk IT — Kanban Task Board
 
-A drag-and-drop Kanban task board built for IT helpdesk and sysadmin teams to track work across **To Do**, **In Progress**, and **Done** — with instant localStorage persistence, light/dark theming, and a performance-tuned React architecture.
+A drag-and-drop Kanban task board built for IT helpdesk and sysadmin teams to track work across **To Do**, **In Progress**, and **Done** — with instant localStorage persistence, light/dark theming, and a performance-tuned React architecture. 
+
+
 ---
 
 ## Features
