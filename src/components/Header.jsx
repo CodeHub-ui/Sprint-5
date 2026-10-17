@@ -32,15 +32,8 @@ export default function Header() {
     <header className="header">
       <div className="header-inner">
         <div className="brand">
-          <div className="brand-mark">
-            <svg viewBox="0 0 24 24" fill="none">
-              <rect x="3" y="3" width="4" height="18" rx="1.4" fill="white" />
-              <rect x="10" y="3" width="4" height="12" rx="1.4" fill="white" fillOpacity="0.75" />
-              <rect x="17" y="3" width="4" height="15" rx="1.4" fill="white" fillOpacity="0.5" />
-            </svg>
-          </div>
           <div className="brand-text">
-            <h1>ProDesk IT</h1>
+            <h1>Kanban Task Board</h1>
             <p>{taskCount} task{taskCount === 1 ? "" : "s"} on the board</p>
           </div>
         </div>
